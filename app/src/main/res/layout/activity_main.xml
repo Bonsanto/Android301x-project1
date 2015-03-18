@@ -11,7 +11,8 @@
 		android:gravity="center"
 		android:textSize="24sp"
 		android:textIsSelectable="true"
-		android:textStyle="bold"/>
+		android:textStyle="bold"
+		android:padding="24dp"/>
 
 	<TableRow
 		android:layout_weight="1">
