@@ -3,322 +3,336 @@
 			 android:layout_height="match_parent"
 			 android:stretchColumns="*">
 
-	<TextView/>
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="top|center"
+		android:text="@string/app_name"
+		android:gravity="center"
+		android:textSize="24sp"
+		android:textIsSelectable="true"
+		android:textStyle="bold"/>
 
-	<TableRow android:layout_weight="1">
+	<TableRow
+		android:layout_weight="1">
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-	</TableRow>
-
-	<TableRow android:layout_weight="1">
-
-		<ImageButton
 			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
 			android:src="@drawable/c4_button"/>
 
 	</TableRow>
 
-	<TableRow android:layout_weight="1">
+	<TableRow
+		android:layout_weight="1">
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-	</TableRow>
-
-	<TableRow android:layout_weight="1">
-
-		<ImageButton
 			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
-			android:src="@drawable/c4_button"/>
-
-		<ImageButton
-			android:contentDescription="@string/contentDescription"
-			android:layout_width="0dp"
-			android:layout_height="match_parent"
-			android:background="@android:color/transparent"
 			android:src="@drawable/c4_button"/>
 
 	</TableRow>
 
-	<TableRow android:layout_weight="1">
+	<TableRow
+		android:layout_weight="1">
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 	</TableRow>
 
-	<TableRow android:layout_weight="1">
+	<TableRow
+		android:layout_weight="1">
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 		<ImageButton
-			android:contentDescription="@string/contentDescription"
 			android:layout_width="0dp"
 			android:layout_height="match_parent"
 			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+	</TableRow>
+
+	<TableRow
+		android:layout_weight="1">
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+	</TableRow>
+
+	<TableRow
+		android:layout_weight="1">
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
+			android:src="@drawable/c4_button"/>
+
+		<ImageButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/contentDescription"
 			android:src="@drawable/c4_button"/>
 
 	</TableRow>
